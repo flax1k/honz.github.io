@@ -39,6 +39,7 @@
     - 1. Video Buttons -
 *********************/
 
+/*
 [class^="fa-"], [class*=" fa-"] {
 	font-family: FontAwesome;
 	speak: none;
@@ -50,6 +51,7 @@
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
+*/
 
 .fa-play:before {
 	content: "\f04b";
